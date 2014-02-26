@@ -32,4 +32,4 @@ name: src
 moduleid: com.dackmin.ajax
 guid: 4422def9-0135-4e3f-9e9d-aa320f730fd6
 platform: iphone
-minsdk: 3.2.1.GA
+minsdk: 3.2.0.GA
