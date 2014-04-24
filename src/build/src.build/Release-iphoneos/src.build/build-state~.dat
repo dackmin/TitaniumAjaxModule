@@ -1,0 +1,290 @@
+Tsrc
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a normal armv7
+cLibtool /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a normal armv7s
+cCreateUniversalBinary /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c000000005282C0F90000000000000110
+t1384300793
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527C2B7E000000000000036B
+t1383869310
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527C2B7F00000000000001A0
+t1383869311
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527C2B830000000000A92BC0
+t1383869315
+s11086784
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m
+c00000000530DBC1600000000000008B6
+t1393409046
+s2230
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m
+c00000000530DBFE40000000000001E02
+t1393410020
+s7682
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch
+c00000000530DBC16000000000000003E
+t1393409046
+s62
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a
+t2
+s0
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjax.LinkFileList
+c00000000530DBFE90000000000000122
+t1393410025
+s290
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o
+t1393410028
+s16512
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o
+t1393410028
+s10620
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a
+t1393410029
+s27608
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjax.LinkFileList
+c00000000530DBFE90000000000000124
+t1393410025
+s292
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o
+t1393410028
+s16504
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o
+t1393410028
+s10620
+
+N/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a
+t1393410029
+s27600
+
+N/var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch
+t1393410027
+s3139056
+
+N/var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch
+t1393410027
+s3138932
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1a4e8169f7bdb841^aa29f569f7bdb841^---0#1#1#--18"Check dependencies36"27384D0F-D052-4499-8A24-309ED4BF45B6-
+
+CCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102827.335921
+e415102828.988574
+r1
+xCompileC
+xbuild/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiModule.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiProxy.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBase.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/defines.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiThreading.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiPublicAPI.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiEvaluator.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollContext.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiCore.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/Ti.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiBase.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollCallback.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollObject.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBindingRunLoop.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiUtils.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiDimension.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiColor.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/WebFont.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiFile.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBuffer.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBlob.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiHost.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/Bridge.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m195"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o Classes/ComDackminAjaxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerca15566bf7bdb841^e717fd6cf7bdb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m0000000000000000^3686"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o Classes/ComDackminAjaxModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7 -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch -MMD -MT dependencies -MF /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.d --serialize-diagnostics /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.dia -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModule.o36"2D6C91C2-E789-4D13-8BA6-FCC3E6A471C5-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102827.336144
+e415102828.110072
+r1
+xCompileC
+xbuild/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m207"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o Classes/ComDackminAjaxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a24566bf7bdb841^1f2b1c6cf7bdb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m0000000000000000^3722"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o Classes/ComDackminAjaxModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7 -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch -MMD -MT dependencies -MF /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.d --serialize-diagnostics /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.dia -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjaxModuleAssets.o36"FDD93CC5-0CF6-402B-A6B9-F15A50B74EFF-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102827.336395
+e415102828.988574
+r1
+xCompileC
+xbuild/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiModule.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiProxy.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBase.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/defines.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiThreading.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiPublicAPI.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiEvaluator.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollContext.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiCore.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/Ti.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiBase.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollCallback.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/KrollObject.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBindingRunLoop.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiUtils.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiDimension.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiColor.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/WebFont.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiFile.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBuffer.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiBlob.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiHost.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/Bridge.h
+d/Users/dackmin/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m197"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o Classes/ComDackminAjaxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1537566bf7bdb841^d713fd6cf7bdb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m0000000000000000^3693"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o Classes/ComDackminAjaxModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7s -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch -MMD -MT dependencies -MF /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.d --serialize-diagnostics /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.dia -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModule.m -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModule.o36"F8E75BC1-1444-4AB3-80C6-65D6B3E56209-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CCompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102827.336911
+e415102828.109855
+r1
+xCompileC
+xbuild/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m209"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o Classes/ComDackminAjaxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler9c52566bf7bdb841^92201c6cf7bdb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m0000000000000000^3729"CompileC build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o Classes/ComDackminAjaxModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7s -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch -MMD -MT dependencies -MF /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.d --serialize-diagnostics /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.dia -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/Classes/ComDackminAjaxModuleAssets.m -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjaxModuleAssets.o36"D72CC04E-94FF-4440-B96B-80EBDDD32263-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CCreateUniversalBinary /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a normal armv7\ armv7s
+s415102829.074356
+e415102829.085560
+r1
+xCreateUniversalBinary
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Create universal binary /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a85"CreateUniversalBinary build/Release-iphoneos/libComDackminAjax.a normal armv7\ armv7sb91c136df7bdb841^3ee8156df7bdb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a003448e4ddffdf42^866"CreateUniversalBinary build/Release-iphoneos/libComDackminAjax.a normal armv7\ armv7s    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    libtool -static /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/libComDackminAjax.a36"55A65E57-5CB4-470A-ACB8-70C866958810-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CLibtool /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a normal armv7
+s415102828.989577
+e415102829.034953
+r1
+xLibtool
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a normal armv7104"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a normal armv7ae66fd6cf7bdb841^aef2086df7bdb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1172"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a normal armv7    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -filelist /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/ComDackminAjax.LinkFileList -ObjC -framework Foundation -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7/libComDackminAjax.a36"346A1055-2508-4841-A6F9-460CD86E8D6F-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CLibtool /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a normal armv7s
+s415102828.989766
+e415102829.073937
+r1
+xLibtool
+x/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a normal armv7s106"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a normal armv7s3b71fd6cf7bdb841^7cf0126df7bdb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1177"Libtool build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a normal armv7s    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -filelist /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/ComDackminAjax.LinkFileList -ObjC -framework Foundation -o /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/Objects-normal/armv7s/libComDackminAjax.a36"CF3C170F-77E1-4F35-9AEB-D3340D2F24B4-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102825.975403
+e415102827.334544
+r1
+xProcessPCH
+x/var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch
+xComDackminAjax_Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile ComDackminAjax_Prefix.pch305"ProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler4e41fa69f7bdb841^97ad556bf7bdb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch0000000000000000^3763"ProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7s -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.d -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch -o /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-agqdloxqczzjdhfwxtcolvfleazx/ComDackminAjax_Prefix.pch.pch36"E685CE68-02B2-433C-8DB1-ABF3A48AFE34-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+
+CProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415102825.975186
+e415102827.334536
+r1
+xProcessPCH
+x/var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch
+xComDackminAjax_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile ComDackminAjax_Prefix.pch304"ProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere541fa69f7bdb841^b69e556bf7bdb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch0000000000000000^3760"ProcessPCH /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch ComDackminAjax_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dackmin/Documents/Github/TitaniumAjaxModule/src    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dackmin/SDK/Android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-generated-files.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-own-target-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-all-target-headers.hmap -iquote /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/ComDackminAjax-project-headers.hmap -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include -I/Users/dackmin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone/include/TiCore -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources/armv7 -I/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/src.build/Release-iphoneos/src.build/DerivedSources -F/Users/dackmin/Documents/Github/TitaniumAjaxModule/src/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.d -c /Users/dackmin/Documents/Github/TitaniumAjaxModule/src/ComDackminAjax_Prefix.pch -o /var/folders/cz/pqxrj5155ln5xng0_n2y0ls40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ComDackminAjax_Prefix-hghcbettvdsywjgqnbikfzeujyqz/ComDackminAjax_Prefix.pch.pch36"3AF176F5-722F-4982-AFB5-39158CD2E42F-
+b0D602334-FB18-457C-9ACD-8E5326095E33
+

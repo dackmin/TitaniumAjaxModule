@@ -1,1 +1,1 @@
-{"exports": ["Network.createHTTPClient", "Network.createHTTPClient"]}
+{"exports": ["Network.createHTTPClient", "API.debug", "Network.createHTTPClient", "API.debug"]}
